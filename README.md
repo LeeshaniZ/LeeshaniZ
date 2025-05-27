@@ -25,8 +25,8 @@ I'm an enthusiastic **Computer Science undergraduate** passionate about building
 ---
 
 ## 📊 GitHub Stats
-![Leeshani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=light&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=light&hide_border=true)
+![Leeshani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeeshaniZ&show_icons=true&theme=light&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeshaniZ&layout=compact&theme=light&hide_border=true)
 
 ---
 
