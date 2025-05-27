@@ -25,8 +25,8 @@ I'm an enthusiastic **Computer Science undergraduate** passionate about building
 ---
 
 ## 📊 GitHub Stats
-![Leeshani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeeshaniZ&show_icons=true&theme=light&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeshaniZ&layout=compact&theme=light&hide_border=true)
+![Leeshani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeeshaniZ&show_icons=true&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeshaniZ&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -38,5 +38,3 @@ I'm an enthusiastic **Computer Science undergraduate** passionate about building
 Feel free to explore my repositories and reach out for collaboration or inquiries!
 
 ---
-
-*Created with care using [GPRM](https://gprm.itsvg.in)*
