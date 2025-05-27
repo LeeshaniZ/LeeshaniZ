@@ -12,13 +12,13 @@
 ## 🛠 Tech Stack
 
  Languages
-<img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,java,php" 
+<img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,java,php" />
 
  Frameworks
-<img src="https://skillicons.dev/icons?i=tensorflow,pycharm,dotnet,bootstrap,selenium,react,spring,nodejs"
+<img src="https://skillicons.dev/icons?i=tensorflow,pycharm,dotnet,bootstrap,selenium,react,spring,nodejs" />
 
-#Tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,notion,figma,ps,firebase" /><br>
+Tools
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,notion,figma,ps,firebase" />
 
 
 # 📊 GitHub Stats:
