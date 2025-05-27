@@ -11,13 +11,13 @@
 
 ## 🛠 Tech Stack
 
- Languages
+ # Languages
 <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,java,php" />
 
- Frameworks
+ # Frameworks
 <img src="https://skillicons.dev/icons?i=tensorflow,pycharm,dotnet,bootstrap,selenium,react,spring,nodejs" />
 
-Tools
+# Tools
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,notion,figma,ps,firebase" />
 
 
