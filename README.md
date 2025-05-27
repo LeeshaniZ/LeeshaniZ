@@ -8,19 +8,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_leez_dilz_/?igsh=d2VsZ2RyYzN2MW8%3D&utm_source=qr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leeshani-dilthara-a9735733a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
+
 ## 🛠 Tech Stack
 
-# Languages
-<br/>
-<img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,java,php" /><br>
+ Languages
+<img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,java,php" 
 
-# Frameworks
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pycharm,dotnet,bootstrap,selenium,react,spring,nodejs" /><br>
+ Frameworks
+<img src="https://skillicons.dev/icons?i=tensorflow,pycharm,dotnet,bootstrap,selenium,react,spring,nodejs"
 
-# Tools
-<br/>
+#Tools
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,notion,figma,ps,firebase" /><br>
+
 
 # 📊 GitHub Stats:
 
