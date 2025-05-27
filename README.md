@@ -28,11 +28,8 @@
 
 # 📊 GitHub Stats:
 
-  <div align="start">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=LeeshaniZ&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeshaniZ&theme=gotham&hide_border=true" />
-    <img width="820px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeshaniZ&theme=gotham&hide_border=true">
-    
-  </div>
+![](https://github-readme-stats.vercel.app/api?username=LeeshaniZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LeeshaniZ&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeshaniZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
